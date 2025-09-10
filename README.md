@@ -24,6 +24,12 @@ Let’s connect, collab, or just geek out on cool ideas — I’m always up for 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
 
+### 🛡️ SOC & Threat Detection
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![SIEM](https://img.shields.io/badge/Log_Analysis-FF6B35?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident_Response-DC143C?style=for-the-badge&logo=security&logoColor=white)
+
 ### 💻 Development Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -121,8 +127,8 @@ Security Assessments: SSL/SSH Testing, API Security Analysis
 - Built customer relationships and managed end-to-end operations
 
 ### 🎤 **Event Coordination**
-- **National Level:** Pitching Competition Coordinator
-- **Department Level:** Technical Competition Organizer
+- **E-eXPO(National Level):** Pitching Competition Coordinator
+- **CyberPunk(Department Level):** Very First Departmental Technical Competition Organizer
 
 </div>
 
@@ -155,10 +161,10 @@ Security Assessments: SSL/SSH Testing, API Security Analysis
 └──╼ $ whoami
 🔍 Currently Exploring: Machine Learning & Deep Learning Algorithms
 🛠️ Building: AI-powered security tools and ML projects  
-🎓 Status: Final year engineering student (Graduating this month!)
+🎓 Status: Final year engineering student (Graduating this year!)
 💡 Focus: Bridging the gap between Cybersecurity and AI/ML
 🤝 Open to: Security research collaborations and ML projects
-📧 Contact: ayushbenny.sec@gmail.com
+📧 Contact: ayushbenny22@gmail.com
 ```
 
 </div>
@@ -172,6 +178,7 @@ Security Assessments: SSL/SSH Testing, API Security Analysis
 | **Category** | **Skills & Tools** |
 |:---:|:---:|
 | **🔍 Penetration Testing** | `Burp Suite` `Metasploit` `Nmap` `Nessus` |
+| **🛡️ SOC & Threat Detection** | `Wazuh` `Splunk` `Log Analysis` `Incident Response` `SIEM` |
 | **🌐 Web Security** | `OWASP Top 10` `API Security` `SSL/SSH Testing` |
 | **🕵️ Network Security** | `Wireshark` `Network Analysis` `Malware Detection` |
 | **🏗️ Infrastructure** | `Linux Administration` `Windows Firewall` `System Hardening` |
@@ -188,10 +195,10 @@ Security Assessments: SSL/SSH Testing, API Security Analysis
 
 **Passionate about cybersecurity, ethical hacking, and building secure AI solutions!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-benny)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushbenny.sec@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://ayushbenny.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayush_benny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-benny-a962a7254/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushbenny22@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyushBenny7)
 
 *"Securing the digital world, one vulnerability at a time"* 🛡️
 
