@@ -2,7 +2,15 @@
 
 I'm Ayush Benny
 
-**🔐 Cybersecurity Enthusiast • 💻 Full-Stack Developer • 🤖 AI/ML Explorer**
+**🔐 Cybersecurity Enthusiast • 💻 Full-Stack De### 🔴 BadUSB Emulator
+**Hardware-Based Social Engineering Tool**
+- 🕹️ Raspberry Pi Zero W powered USB attack platform
+- 🐍 Python automation scripts with Sliver C2 framework
+- 💀 Remote shell access and payload delivery system
+
+**Tech:** `Raspberry Pi` `Python` `Sliver Framework` `Hardware Hacking`
+
+--- AI/ML Explorer**
 
 I’m a restless builder who refuses to stick to one stack. Whether it’s breaking into systems to understand them, securing what I build, or experimenting with AI to create cooler stuff — I’m always chasing the next challenge. I think like a hacker, code like a maker, and move like an entrepreneur. Always learning, always shipping. 🚀
 
@@ -53,8 +61,6 @@ Let’s connect, collab, or just geek out on cool ideas — I’m always up for 
 
 ## 🚀 Featured Security Projects
 
-<div align="center">
-
 ### 🛡️ DDoS Detection Framework
 **AI-Powered Network Security Solution**
 - 🔍 Real-time traffic analysis with ML-based threat detection
@@ -93,13 +99,9 @@ Let’s connect, collab, or just geek out on cool ideas — I’m always up for 
 
 **Tech:** `Raspberry Pi` `Python` `Sliver Framework` `Hardware Hacking`
 
-</div>
-
 ---
 
 ## 🏆 Achievements & Experience
-
-<div align="center">
 
 ### 🎯 **Penetration Testing Experience**
 ```
@@ -129,8 +131,6 @@ Security Assessments: SSL/SSH Testing, API Security Analysis
 ### 🎤 **Event Coordination**
 - **E-eXPO(National Level):** Pitching Competition Coordinator
 - **CyberPunk(Department Level):** Very First Departmental Technical Competition Organizer
-
-</div>
 
 ---
 
