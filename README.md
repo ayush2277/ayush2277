@@ -1,12 +1,8 @@
-# Hi, I Am Ayush Benny 👋🛡️
+## Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayush2277&color=red&style=flat-square&label=Profile+Views)
+I'm Ayush Benny
 
-**🔐 Cybersecurity Enthusiast • 💻 Full-Stack Developer • 🤖 AI/ML Explorer**
-
-*"Building secure solutions in a digital world"*
-
-🎓 Final Year Engineering Student | 🏆 CTF Winner | 🌐 Security Researcher
+AI x Security | Entrepreneurial Mindset | Final Year Engineering Student | CTF Winner | Security Researcher
 
 ---
 
@@ -203,6 +199,6 @@ Security Assessments: SSL/SSH Testing, API Security Analysis
 
 *"Securing the digital world, one vulnerability at a time"* 🛡️
 
-![Hacker GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Profile Views](https://komarev.com/ghpvc/?username=ayush2277&color=red&style=flat-square&label=Profile+Views)
 
 </div>
