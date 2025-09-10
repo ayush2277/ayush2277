@@ -39,7 +39,7 @@ Let’s connect, collab, or just geek out on cool ideas — I’m always up for 
 ### 🌐 Infrastructure & OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
@@ -47,64 +47,47 @@ Let’s connect, collab, or just geek out on cool ideas — I’m always up for 
 
 ## 🚀 Featured Security Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ### 🛡️ DDoS Detection Framework
 **AI-Powered Network Security Solution**
-```bash
-🔍 Real-time traffic analysis
-🤖 ML-based threat detection  
-📊 Advanced logging & alerts
-🌐 Scalable architecture
-```
-`Python` `TensorFlow` `Networking` `Security`
+- 🔍 Real-time traffic analysis with ML-based threat detection
+- 📊 Advanced logging system with automated alerts
+- 🌐 Scalable architecture for enterprise deployment
 
-</td>
-<td width="50%">
+**Tech:** `Python` `TensorFlow` `Networking` `Security`
+
+---
 
 ### 🕷️ Web Vulnerability Scanner
 **Automated Security Assessment Tool**
-```bash
-🔎 OWASP Top 10 detection
-🚨 Custom payload injection
-📝 Detailed vulnerability reports
-⚡ Fast & accurate scanning
-```
-`Python` `Web Security` `OWASP` `Automation`
+- 🔎 OWASP Top 10 vulnerability detection engine
+- 🚨 Custom payload injection with smart fuzzing
+- 📝 Comprehensive vulnerability reports with remediation
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Tech:** `Python` `Web Security` `OWASP` `Automation`
 
-### 🏛️ Cybersecurity Club Website
+---
+
+### 🏛️ Phoenix Cybersecurity Club Website
 **Secure Full-Stack Web Platform**
-```bash
-🔐 Advanced authentication
-🛡️ Security-first design
-📱 Responsive interface
-🎯 Event management system
-```
-`MERN Stack` `Security` `Full-Stack` `Web Dev`
+- 🔐 Advanced multi-factor authentication system
+- 🛡️ Security-first design with threat modeling
+- 🎯 Event management and member portal
 
-</td>
-<td width="50%">
+**Tech:** `MERN Stack` `Security` `Full-Stack` `Web Dev`
 
-### 🔬 Infrastructure Penetration Testing
-**Comprehensive Security Assessment**
-```bash
-🎯 Vulnerability assessment
-🔍 Network reconnaissance  
-📊 Risk analysis & reporting
-🛠️ Remediation recommendations
-```
-`Nessus` `Nmap` `Penetration Testing` `Analysis`
+---
 
-</td>
-</tr>
-</table>
+### � BadUSB Emulator
+**Hardware-Based Social Engineering Tool**
+- 🕹️ Raspberry Pi Zero W powered USB attack platform
+- � Python automation scripts with Sliver C2 framework
+- � Remote shell access and payload delivery system
+
+**Tech:** `Raspberry Pi` `Python` `Sliver Framework` `Hardware Hacking`
+
+</div>
 
 ---
 
@@ -120,15 +103,22 @@ Security Assessments: SSL/SSH Testing, API Security Analysis
 ```
 
 ### 🏫 **Professional Experience**
-**School Website Development & Security Hardening**
+**Avadh School Intern: Backend And Application Security Engineer**
 - Designed and developed secure web infrastructure
 - Implemented security best practices and hardening measures
 - Conducted security assessments and vulnerability remediation
 
-### 🏅 **Cybersecurity Club Leadership**
+### 🏅 **Phoenix Cybersecurity Club Leadership**
+- **Position:** Vice Captain of Phoenix Cybersecurity Club
 - **CTF Competitions:** Conducted, participated, and won multiple CTFs
 - **Community Building:** Organized security awareness workshops
 - **Knowledge Sharing:** Mentored junior members in ethical hacking
+
+### 🚀 **Entrepreneurial Ventures**
+**Founder of Fenishop**
+- Established and operated a campus-based retail business
+- Delivered snacks, eatables, and essential student supplies to hostel residents
+- Built customer relationships and managed end-to-end operations
 
 ### 🎤 **Event Coordination**
 - **National Level:** Pitching Competition Coordinator
