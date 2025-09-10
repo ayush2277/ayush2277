@@ -3,14 +3,6 @@
 I'm Ayush Benny
 
 **🔐 Cybersecurity Enthusiast • 💻 Full-Stack De### 🔴 BadUSB Emulator
-**Hardware-Based Social Engineering Tool**
-- 🕹️ Raspberry Pi Zero W powered USB attack platform
-- 🐍 Python automation scripts with Sliver C2 framework
-- 💀 Remote shell access and payload delivery system
-
-**Tech:** `Raspberry Pi` `Python` `Sliver Framework` `Hardware Hacking`
-
---- AI/ML Explorer**
 
 I’m a restless builder who refuses to stick to one stack. Whether it’s breaking into systems to understand them, securing what I build, or experimenting with AI to create cooler stuff — I’m always chasing the next challenge. I think like a hacker, code like a maker, and move like an entrepreneur. Always learning, always shipping. 🚀
 
