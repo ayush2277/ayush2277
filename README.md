@@ -1,4 +1,12 @@
-# Hi, I Am Ayush Benny 👋🛡️
+# ![Profile Views🎓 Final Year Engineering Student | 🏆 CTF Winner | 🌐 Security Researcher
+
+---://komarev.com/ghpvc/?username=ayush2277&color=red&style=flat-square&label=Profile+Views)
+
+**🔐 Cybersecurity Enthusiast • 💻 Full-Stack Developer • 🤖 AI/ML Explorer**
+
+*"Building secure solutions in a digital world"*
+
+🎓 Final Year Engineering Student | 🏆 CTF Winner | 🌐 Security Researcheryush Benny 👋🛡️
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayush2277&color=red&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/ayush2277?style=flat-square&color=red&label=Followers)
