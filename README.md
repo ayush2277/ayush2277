@@ -2,7 +2,7 @@
 
 I'm Ayush Benny
 
-**🔐 Cybersecurity Enthusiast • 💻 Full-Stack De### 🔴 BadUSB Emulator
+**🔐 Cybersecurity Enthusiast • 💻 Full-Stack Developer • 🤖 AI/ML Explorer**
 
 I’m a restless builder who refuses to stick to one stack. Whether it’s breaking into systems to understand them, securing what I build, or experimenting with AI to create cooler stuff — I’m always chasing the next challenge. I think like a hacker, code like a maker, and move like an entrepreneur. Always learning, always shipping. 🚀
 
@@ -59,7 +59,7 @@ Let’s connect, collab, or just geek out on cool ideas — I’m always up for 
 - 📊 Advanced logging system with automated alerts
 - 🌐 Scalable architecture for enterprise deployment
 
-**Tech:** `Python` `TensorFlow` `Networking` `Security`
+**Tech:** `Npcap` `CPP` `Networking` `Security`
 
 ---
 
@@ -108,7 +108,7 @@ Security Assessments: SSL/SSH Testing, API Security Analysis
 - Implemented security best practices and hardening measures
 - Conducted security assessments and vulnerability remediation
 
-### 🏅 **Phoenix Cybersecurity Club Leadership**
+### 🏅 **Phoenix Cybersecurity Club**
 - **Position:** Vice Captain of Phoenix Cybersecurity Club
 - **CTF Competitions:** Conducted, participated, and won multiple CTFs
 - **Community Building:** Organized security awareness workshops
@@ -193,6 +193,8 @@ Security Assessments: SSL/SSH Testing, API Security Analysis
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AyushBenny7)
 
 *"Securing the digital world, one vulnerability at a time"* 🛡️
+
+![Hacker GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayush2277&color=red&style=flat-square&label=Profile+Views)
 
