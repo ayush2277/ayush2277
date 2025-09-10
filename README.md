@@ -2,7 +2,13 @@
 
 I'm Ayush Benny
 
-AI x Security | Entrepreneurial Mindset | Final Year Engineering Student | CTF Winner | Security Researcher
+**🔐 Cybersecurity Enthusiast • 💻 Full-Stack Developer • 🤖 AI/ML Explorer**
+
+I’m a restless builder who refuses to stick to one stack. Whether it’s breaking into systems to understand them, securing what I build, or experimenting with AI to create cooler stuff — I’m always chasing the next challenge. I think like a hacker, code like a maker, and move like an entrepreneur. Always learning, always shipping. 🚀
+
+Let’s connect, collab, or just geek out on cool ideas — I’m always up for it.
+
+⚡ AI x Security | Builder @ Heart | Hacker Mindset | Aspiring Entrepreneur
 
 ---
 
